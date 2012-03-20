@@ -1,0 +1,9 @@
+5de194356a1a1a1dd3b0722f74dd9f35 *DESCRIPTION
+cd869e4b112c967f9ec4f36b397c1565 *NAMESPACE
+039131b3c2e0ee6d2b398b9785715ff4 *R/gibbs_sampling.R
+73cf6768fcdba4ede20bc851f0aab11c *data/matrixL.rda
+7d3c7469ce0313d8087db636e94e7535 *data/matrixY.rda
+4b0d8cf5967119fc51ebf59320ac980f *man/FacPad-package.Rd
+68ea6f1ab0007694ee260216cf2471f5 *man/gibbs_sampling.Rd
+b3df62a6b0f9a76e4a6609944902efd1 *man/matrixL.Rd
+7ef542ca11b8ebb61b9dffbfa722a7fb *man/matrixY.Rd
