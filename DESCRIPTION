@@ -2,8 +2,8 @@ Package: FacPad
 Type: Package
 Title: Bayesian Sparse Factor Analysis model for the inference of
         pathways responsive to drug treatment
-Version: 1.0
-Date: 2012-03-20
+Version: 2.0
+Date: 2012-06-25
 Author: Haisu Ma
 Maintainer: Haisu Ma <haisu.ma@yale.edu>
 Depends: R (>= 2.12.1),Rlab,MASS
@@ -14,6 +14,6 @@ Description: This method tries to explain the gene-wise treatment
         latent factor activity levels for each treatment.
 License: GPL (>= 2)
 LazyLoad: yes
-Packaged: 2012-03-21 19:16:19 UTC; Evelyn
+Packaged: 2012-06-25 16:59:01 UTC; Evelyn
 Repository: CRAN
-Date/Publication: 2012-03-22 08:28:05
+Date/Publication: 2012-06-26 18:36:29

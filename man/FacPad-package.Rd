@@ -13,8 +13,8 @@ activity levels for each treatment.
 \tabular{ll}{
 Package: \tab FacPad\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2012-03-20\cr
+Version: \tab 2.0\cr
+Date: \tab 2012-06-25\cr
 License: \tab GPL (>= 2) \cr
 LazyLoad: \tab yes\cr
 }
@@ -30,5 +30,8 @@ data(matrixY)
 data(matrixL)
 result<-gibbs_sampling(matrixY,matrixL,max_iter=30,
 thin=10,file_name="test_30iter.RData")
+
+result2<-gibbs2(matrixY,matrixL,eta0=0.2,eta1=0.2,
+max_iter=50,thin=10,file_name="test_v2_50iter.RData")
 
 }

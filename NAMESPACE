@@ -1,2 +1,2 @@
-export(gibbs_sampling)
+export(gibbs_sampling,gibbs2)
 
