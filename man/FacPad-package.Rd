@@ -14,14 +14,14 @@ activity levels for each treatment.
 Package: \tab FacPad\cr
 Type: \tab Package\cr
 Version: \tab 2.0\cr
-Date: \tab 2012-06-25\cr
+Date: \tab 2014-03-25\cr
 License: \tab GPL (>= 2) \cr
 LazyLoad: \tab yes\cr
 }
 install.packages("FacPad")
 }
 \author{
-Haisu Ma<haisu.ma@yale.edu>
+Haisu Ma<haisu.ma.pku.2008@gmail.com>
 }
 \keyword{ package }
 \examples{

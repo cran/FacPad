@@ -1,2 +1,3 @@
+import(Rlab,MASS)
 export(gibbs_sampling,gibbs2)
 

@@ -1,8 +1,8 @@
 gibbs_sampling <-
 function(matrixY,matrixL,alpha_tau=1,beta_tau=0.01,tau_sig=1,max_iter=10000,thin=10,alpha_sigma=0.7,beta_sigma=0.3,file_name){
   
-library(Rlab)
-library(MASS)
+#library(Rlab)
+#library(MASS)
 
 
 # The input data matrix (G by J, G is the number of genes, J is the number of samples,normalized to mean=0 and sd=1 for each gene)
